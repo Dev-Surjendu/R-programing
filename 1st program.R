@@ -1,6 +1,6 @@
 # WAP to add, subtract, multiply and divide two nums.
-sum=10+10
-sum
+add=10+10
+add
 sub=30-10
 sub
 mul=15*2
