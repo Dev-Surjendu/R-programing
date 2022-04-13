@@ -1,3 +1,5 @@
+# WAP to add, subtract, multiply and divide two nums.
+
 sum=10+10
 sum
 sub=30-10
